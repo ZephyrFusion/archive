@@ -3,61 +3,61 @@ projects:
     name: accessor-hs
     description: Lens-like library for Haskell.
     tags: [lens, optics, haskell]
-    download: https://github.com/hajimimambo/archive/releases/tag/v1
+    download: https://github.com/ZephyrFusion/archive/releases/tag/v1
 
   - id: bamboo-lisp
     name: bamboo-lisp
     description: Lisp-2 tree-walking Lisp interpreter.
     tags: [lisp-2, tree-walking, interpreter, c]
-    download: https://github.com/hajimimambo/archive/releases/tag/v1
+    download: https://github.com/ZephyrFusion/archive/releases/tag/v1
 
   - id: basher
     name: basher
     description: Minimal AI agent.
     tags: [ai, agent, minimal, python]
-    download: https://github.com/hajimimambo/archive/releases/tag/v1
+    download: https://github.com/ZephyrFusion/archive/releases/tag/v1
 
   - id: ezlive
     name: ezlive
     description: SRT live streaming to an S3 bucket, enabling free-of-charge live streaming via Cloudflare R2.
     tags: [srt, live-streaming, cloudflare-r2, s3, c++]
-    download: https://github.com/hajimimambo/archive/releases/tag/v1
+    download: https://github.com/ZephyrFusion/archive/releases/tag/v1
 
   - id: flex-record
     name: flex-record
     description: Vinyl-like, type-safe record and sum types where field names and types are available at the type level.
     tags: [record, sum-type, type-level, vinyl, haskell]
-    download: https://github.com/hajimimambo/archive/releases/tag/v1
+    download: https://github.com/ZephyrFusion/archive/releases/tag/v1
 
   - id: hive-mind-ygo
     name: hive-mind-ygo
     description: Yu-Gi-Oh! drafting simulator.
     tags: [yu-gi-oh, simulator, drafting, c++]
-    download: https://github.com/hajimimambo/archive/releases/tag/v1
+    download: https://github.com/ZephyrFusion/archive/releases/tag/v1
 
   - id: jitasm-py
     name: jitasm-py
     description: x86-64 just-in-time assembler in Python, suitable for making a small compiler.
     tags: [jit, assembler, x86-64, compiler, python]
-    download: https://github.com/hajimimambo/archive/releases/tag/v1
+    download: https://github.com/ZephyrFusion/archive/releases/tag/v1
 
   - id: lmp
     name: lmp
     description: Lisp-style C++ template metaprogramming.
     tags: [template-metaprogramming, lisp, c++]
-    download: https://github.com/hajimimambo/archive/releases/tag/v1
+    download: https://github.com/ZephyrFusion/archive/releases/tag/v1
 
   - id: typed-rpc
     name: typed-rpc
     description: Type-level JSON-RPC framework; a very simple Servant-like library.
     tags: [json-rpc, type-level, servant, haskell]
-    download: https://github.com/hajimimambo/archive/releases/tag/v1
+    download: https://github.com/ZephyrFusion/archive/releases/tag/v1
 
   - id: mistivia.com
     name: mistivia.com
     description: My website.
     tags: [website, personal, html, javascript, python]
-    download: https://github.com/hajimimambo/archive/releases/tag/v1
+    download: https://github.com/ZephyrFusion/archive/releases/tag/v1
 
   - id: asmkit
     name: asmkit
